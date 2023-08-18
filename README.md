@@ -47,12 +47,15 @@ Screenshot1:
 
 
 Screenshot2:
+
 ![Speech_quote](https://github.com/somashekar17/Random_quote_Generator/assets/49157790/69e53a90-5e4d-484f-99fd-79cd043ab41f)
 
 
 Screenshot3:
+
 ![Copy_quote](https://github.com/somashekar17/Random_quote_Generator/assets/49157790/9c365df2-398d-45a0-8b0d-c45fd058c487)
 
 
 Screenshot4:
+
 ![Screenshot 2023-08-18 170329](https://github.com/somashekar17/Random_quote_Generator/assets/49157790/68780323-f753-41e8-8403-fd2c917b721c)
